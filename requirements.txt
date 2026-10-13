@@ -1,0 +1,7 @@
+numpy
+pandas
+requests
+matplotlib
+scikit-learn
+plotly
+pandas_market_calendars
